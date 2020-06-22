@@ -1,0 +1,4 @@
+li#sitenav{
+    text-transform: capitalize;
+    font-weight: bold;
+}
